@@ -3,7 +3,7 @@
 This document provides a detailed reference for the APIs available in the Quantum Celestia Nexus project.
 
 ## Quantum Module
-
+ 
 ### `quantum_circuits.py`
 
 #### `create_circuit(qubits: int) -> QuantumCircuit`
