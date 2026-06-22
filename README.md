@@ -177,68 +177,222 @@
 [![University of Sydney - Artificial Intelligence Certificate](https://img.shields.io/badge/University%20of%20Sydney-Artificial%20Intelligence%20Certificate-007A33?style=flat&logo=usyd&labelColor=9B0000)](https://www.sydney.edu.au/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-celestia-nexus/tree/main">Quantum Celestia Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
-
-# quantum-celestia-nexus
-The core framework of the Quantum Celestia Nexus project, this repository contains the foundational algorithms, quantum computing architectures, and AI models that drive the integration of quantum technologies with advanced artificial intelligence. It serves as the backbone for data processing, real-time learning, and collaborative research, enabling groundbreaking solutions to complex challenges across various scientific domains.
+<div align="center">
 
 # Quantum Celestia Nexus
 
-## Project Overview
-Quantum Celestia Nexus is an ambitious initiative aimed at creating a fully integrated quantum computing and artificial intelligence ecosystem. This project leverages the principles of quantum mechanics to develop advanced AI algorithms capable of solving complex problems across various scientific domains, including astrophysics, genomics, climate modeling, and materials science.
+### *Quantum Computing × Artificial Intelligence × Scientific Discovery*
 
-## Features
-- Quantum circuit design and simulation
-- Advanced neural network architectures
-- Real-time data processing and analysis
-- Secure quantum communication protocols
-- Comprehensive documentation and tutorials
+<p>
+  <a href="https://github.com/OleLehmann/QuantumIntelligenceModel">
+    <img src="https://img.shields.io/badge/REPOSITORY-QUANTUM%20INTELLIGENCE%20MODEL-0B1020?style=for-the-badge&labelColor=7C3AED&color=111827" alt="Repository">
+  </a>
+</p>
 
-## Installation Instructions
+<p>
+  <img src="https://img.shields.io/badge/QUANTUM-COMPUTING-0B1020?style=for-the-badge&labelColor=8B5CF6&color=111827" alt="Quantum Computing">
+  <img src="https://img.shields.io/badge/AI-INTELLIGENCE-0B1020?style=for-the-badge&labelColor=06B6D4&color=111827" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/REAL--TIME-DATA%20PROCESSING-0B1020?style=for-the-badge&labelColor=22C55E&color=111827" alt="Real Time Data Processing">
+</p>
 
-### Prerequisites
-- Python 3.7 or higher
-- pip (Python package installer)
-- Git
+<p>
+  <img src="https://img.shields.io/badge/RESEARCH-GRADE%20FRAMEWORK-0B1020?style=for-the-badge&labelColor=EC4899&color=111827" alt="Research Grade Framework">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-0B1020?style=for-the-badge&labelColor=F59E0B&color=111827" alt="MIT License">
+</p>
 
-### Clone the Repository
+**Quantum Celestia Nexus** is the core framework for an integrated **quantum computing and artificial intelligence ecosystem**.
+
+It brings together **quantum computing architectures**, **AI models**, and **scientific computing workflows** to support real-time learning, advanced data processing, and collaborative research across high-complexity domains.
+
+</div>
+
+---
+
+## ✦ Overview ✦
+
+**Quantum Celestia Nexus** is an ambitious initiative focused on building a unified platform where **quantum computing** and **advanced artificial intelligence** work together as a single research and engineering stack.
+
+The project is designed to explore how quantum mechanics, machine intelligence, and high-performance computation can be combined to solve difficult problems across domains such as:
+
+* **Astrophysics**
+* **Genomics**
+* **Climate Modeling**
+* **Materials Science**
+* **Scientific Simulation & Discovery**
+
+This repository serves as the **core framework** of the broader Quantum Celestia Nexus project, containing foundational algorithms, quantum architectures, and AI systems that power experimentation, modeling, and research workflows.
+
+---
+
+## ✦ Core Capabilities ✦
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### **Quantum Infrastructure**
+
+* Quantum circuit design and simulation
+* Experimental quantum algorithm workflows
+* Secure quantum communication concepts
+* Foundational architectures for hybrid quantum systems
+* Support for advanced computational experimentation
+
+  </td>
+  <td width="50%" valign="top">
+
+### **AI & Data Systems**
+
+* Advanced neural network architectures
+* Real-time data processing and analysis
+* Adaptive learning pipelines
+* AI-assisted scientific research workflows
+* Extensible model experimentation and evaluation
+
+  </td>
+  </tr>
+
+</table>
+
+---
+
+## ✦ Features ✦
+
+### **Quantum circuit design and simulation**
+
+Build and experiment with quantum circuits and computational models that support research into hybrid quantum-AI workflows.
+
+### **Advanced neural network architectures**
+
+Develop and evaluate modern AI models designed for scientific analysis, adaptive learning, and data-driven problem solving.
+
+### **Real-time data processing and analysis**
+
+Process streaming or large-scale scientific data in real time, enabling responsive experimentation and iterative model refinement.
+
+### **Secure quantum communication protocols**
+
+Explore secure communication concepts and future-facing cryptographic ideas relevant to quantum-enabled systems.
+
+### **Comprehensive documentation and tutorials**
+
+The project is structured to support researchers, engineers, and contributors through guides, examples, and technical documentation.
+
+---
+
+## ✦ Scientific Focus Areas ✦
+
+Quantum Celestia Nexus is designed to support exploration in areas such as:
+
+* **Astrophysics** — modeling large-scale systems, simulations, and astronomical datasets
+* **Genomics** — high-dimensional biological data analysis and pattern discovery
+* **Climate Modeling** — complex systems analysis, forecasting, and environmental simulation
+* **Materials Science** — molecular behavior, optimization, and computational materials research
+* **Cross-domain Scientific Research** — integrating AI and quantum methods into new problem spaces
+
+---
+
+## ✦ Installation ✦
+
+### **Prerequisites**
+
+Before getting started, make sure you have:
+
+* **Python 3.7+**
+* **pip** (Python package installer)
+* **Git**
+
+### **Clone the Repository**
 
 ```bash
-1 git clone https://github.com/KOSASIH/quantum-celestia-nexus-core.git
-2 cd quantum-celestia-nexus-core
+git clone https://github.com/KOSASIH/quantum-celestia-nexus-core.git
+cd quantum-celestia-nexus-core
 ```
 
-### Install Dependencies
+### **Install Dependencies**
 
 ```bash
-1 pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
-## Usage Guidelines
+---
 
-### Running the Main Application
+## ✦ Usage ✦
 
-To run the main application, execute the following command:
+### **Run the Main Application**
 
 ```bash
-1 python src/main.py
+python src/main.py
 ```
 
-### Running Tests
-
-To run the unit tests, use:
+### **Run the Test Suite**
 
 ```bash
-1 pytest tests/
+pytest tests/
 ```
 
-# Example Usage
+---
 
-Refer to the examples/ directory for example scripts demonstrating how to use various components of the project.
+## ✦ Example Usage ✦
 
-# Contributing
+See the [`examples/`](./examples) directory for example scripts demonstrating how to use the different components of the project.
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+These examples can help you explore:
 
-# License
+* quantum workflow components
+* AI model integration patterns
+* data processing pipelines
+* experimental research tooling
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
+
+## ✦ Repository Role ✦
+
+This repository acts as the **foundational layer** of the Quantum Celestia Nexus ecosystem.
+
+It is intended to serve as the backbone for:
+
+* quantum and AI model experimentation
+* scientific data processing
+* collaborative research workflows
+* real-time learning systems
+* future hybrid quantum-intelligence applications
+
+---
+
+## ✦ Contributing ✦
+
+Contributions are welcome.
+
+If you would like to improve the framework, add features, expand the documentation, or contribute new experiments, please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
+
+---
+
+## ✦ Documentation ✦
+
+Project documentation should cover:
+
+* setup and installation
+* core architecture
+* usage examples
+* tutorials and walkthroughs
+* API and module references
+
+If documentation files are available in this repository, link them here as the project grows.
+
+---
+
+## ✦ License ✦
+
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+## **Quantum Celestia Nexus**
+
+*Built for researchers. Designed for explorers. Engineered for the convergence of quantum computing and artificial intelligence.*
+
+</div>
